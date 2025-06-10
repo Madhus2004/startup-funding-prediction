@@ -1,7 +1,5 @@
 # startup-funding-prediction
 
-# 🚀 Startup Funding Prediction
-
 This machine learning project predicts whether an Indian startup is likely to receive funding based on its features such as city, sector, subvertical, investment type, and founding date.
 
 ---
